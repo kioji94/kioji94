@@ -1,0 +1,499 @@
+{
+  "data": [
+    {
+      "index": "1",
+      "latin": "Ar Rahman",
+      "arabic": "الرَّحْمَنُ"
+    },
+    {
+      "index": "2",
+      "latin": "Ar Rahiim",
+      "arabic": "الرَّحِيمُ"
+    },
+    {
+      "index": "3",
+      "latin": "Al Malik",
+      "arabic": "الْمَلِكُ"
+    },
+    {
+      "index": "4",
+      "latin": "Al Quddus",
+      "arabic": "الْقُدُّوسُ"
+    },
+    {
+      "index": "5",
+      "latin": "As Salaam",
+      "arabic": "السَّلاَمُ"
+    },
+    {
+      "index": "6",
+      "latin": "Al Mu’min",
+      "arabic": "الْمُؤْمِنُ"
+    },
+    {
+      "index": "7",
+      "latin": "Al Muhaimin",
+      "arabic": "الْمُهَيْمِنُ"
+    },
+    {
+      "index": "8",
+      "latin": "Al ‘Aziiz",
+      "arabic": "الْعَزِيزُ"
+    },
+    {
+      "index": "9",
+      "latin": "Al Jabbar",
+      "arabic": "الْجَبَّارُ"
+    },
+    {
+      "index": "10",
+      "latin": "Al Mutakabbir",
+      "arabic": "الْمُتَكَبِّرُ"
+    },
+    {
+      "index": "11",
+      "latin": "Al Khaliq",
+      "arabic": "الْخَالِقُ"
+    },
+    {
+      "index": "12",
+      "latin": "Al Baari’",
+      "arabic": "الْبَارِئُ"
+    },
+    {
+      "index": "13",
+      "latin": "Al Mushawwir",
+      "arabic": "الْمُصَوِّرُ"
+    },
+    {
+      "index": "14",
+      "latin": "Al Ghaffaar",
+      "arabic": "الْغَفَّارُ"
+    },
+    {
+      "index": "15",
+      "latin": "Al Qahhaar",
+      "arabic": "الْقَهَّارُ"
+    },
+    {
+      "index": "16",
+      "latin": "Al Wahhaab",
+      "arabic": "الْوَهَّابُ"
+    },
+    {
+      "index": "17",
+      "latin": "Ar Razzaaq",
+      "arabic": "الرَّزَّاقُ"
+    },
+    {
+      "index": "18",
+      "latin": "Al Fattaah",
+      "arabic": "الْفَتَّاحُ"
+    },
+    {
+      "index": "19",
+      "latin": "Al ‘Aliim",
+      "arabic": "اَلْعَلِيْمُ"
+    },
+    {
+      "index": "20",
+      "latin": "Al Qaabidh",
+      "arabic": "الْقَابِضُ"
+    },
+    {
+      "index": "21",
+      "latin": "Al Baasith",
+      "arabic": "الْبَاسِطُ"
+    },
+    {
+      "index": "22",
+      "latin": "Al Khaafidh",
+      "arabic": "الْخَافِضُ"
+    },
+    {
+      "index": "23",
+      "latin": "Ar Raafi’",
+      "arabic": "الرَّافِعُ"
+    },
+    {
+      "index": "24",
+      "latin": "Al Mu’izz",
+      "arabic": "الْمُعِزُّ"
+    },
+    {
+      "index": "25",
+      "latin": "Al Mudzil",
+      "arabic": "المُذِلُّ"
+    },
+    {
+      "index": "26",
+      "latin": "Al Samii’",
+      "arabic": "السَّمِيعُ"
+    },
+    {
+      "index": "27",
+      "latin": "Al Bashiir",
+      "arabic": "الْبَصِيرُ"
+    },
+    {
+      "index": "28",
+      "latin": "Al Hakam",
+      "arabic": "الْحَكَمُ"
+    },
+    {
+      "index": "29",
+      "latin": "Al ‘Adl",
+      "arabic": "الْعَدْلُ"
+    },
+    {
+      "index": "30",
+      "latin": "Al Lathiif",
+      "arabic": "اللَّطِيفُ"
+    },
+    {
+      "index": "31",
+      "latin": "Al Khabiir",
+      "arabic": "الْخَبِيرُ"
+    },
+    {
+      "index": "32",
+      "latin": "Al Haliim",
+      "arabic": "الْحَلِيمُ"
+    },
+    {
+      "index": "33",
+      "latin": "Al ‘Azhiim",
+      "arabic": "الْعَظِيمُ"
+    },
+    {
+      "index": "34",
+      "latin": "Al Ghafuur",
+      "arabic": "الْغَفُورُ"
+    },
+    {
+      "index": "35",
+      "latin": "As Syakuur",
+      "arabic": "الشَّكُورُ"
+    },
+    {
+      "index": "36",
+      "latin": "Al ‘Aliy",
+      "arabic": "الْعَلِيُّ"
+    },
+    {
+      "index": "37",
+      "latin": "Al Kabiir",
+      "arabic": "الْكَبِيرُ"
+    },
+    {
+      "index": "38",
+      "latin": "Al Hafizh",
+      "arabic": "الْحَفِيظُ"
+    },
+    {
+      "index": "39",
+      "latin": "Al Muqiit",
+      "arabic": "المُقيِت"
+    },
+    {
+      "index": "40",
+      "latin": "Al Hasiib",
+      "arabic": "الْحسِيبُ"
+    },
+    {
+      "index": "41",
+      "latin": "Al Jaliil",
+      "arabic": "الْجَلِيلُ"
+    },
+    {
+      "index": "42",
+      "latin": "Al Kariim",
+      "arabic": "الْكَرِيمُ"
+    },
+    {
+      "index": "43",
+      "latin": "Ar Raqiib",
+      "arabic": "الرَّقِيبُ"
+    },
+    {
+      "index": "44",
+      "latin": "Al Mujiib",
+      "arabic": "الْمُجِيبُ"
+    },
+    {
+      "index": "45",
+      "latin": "Al Waasi’",
+      "arabic": "الْوَاسِعُ"
+    },
+    {
+      "index": "46",
+      "latin": "Al Hakiim",
+      "arabic": "الْحَكِيمُ"
+    },
+    {
+      "index": "47",
+      "latin": "Al Waduud",
+      "arabic": "الْوَدُودُ"
+    },
+    {
+      "index": "48",
+      "latin": "Al Majiid",
+      "arabic": "الْمَجِيدُ"
+    },
+    {
+      "index": "49",
+      "latin": "Al Baa’its",
+      "arabic": "الْبَاعِثُ"
+    },
+    {
+      "index": "50",
+      "latin": "As Syahiid",
+      "arabic": "الشَّهِيدُ"
+    },
+    {
+      "index": "51",
+      "latin": "Al Haqq",
+      "arabic": "الْحَقُّ"
+    },
+    {
+      "index": "52",
+      "latin": "Al Wakiil",
+      "arabic": "الْوَكِيلُ"
+    },
+    {
+      "index": "53",
+      "latin": "Al Qawiyyu",
+      "arabic": "الْقَوِيُّ"
+    },
+    {
+      "index": "54",
+      "latin": "Al Matiin",
+      "arabic": "الْمَتِينُ"
+    },
+    {
+      "index": "55",
+      "latin": "Al Waliyy",
+      "arabic": "الْوَلِيُّ"
+    },
+    {
+      "index": "56",
+      "latin": "Al Hamiid",
+      "arabic": "الْحَمِيدُ"
+    },
+    {
+      "index": "57",
+      "latin": "Al Mushii",
+      "arabic": "الْمُحْصِي"
+    },
+    {
+      "index": "58",
+      "latin": "Al Mubdi’",
+      "arabic": "الْمُبْدِئُ"
+    },
+    {
+      "index": "59",
+      "latin": "Al Mu’iid",
+      "arabic": "الْمُعِيدُ"
+    },
+    {
+      "index": "60",
+      "latin": "Al Muhyii",
+      "arabic": "الْمُحْيِي"
+    },
+    {
+      "index": "61",
+      "latin": "Al Mumiitu",
+      "arabic": "اَلْمُمِيتُ"
+    },
+    {
+      "index": "62",
+      "latin": "Al Hayyu",
+      "arabic": "الْحَيُّ"
+    },
+    {
+      "index": "63",
+      "latin": "Al Qayyuum",
+      "arabic": "الْقَيُّومُ"
+    },
+    {
+      "index": "64",
+      "latin": "Al Waajid",
+      "arabic": "الْوَاجِدُ"
+    },
+    {
+      "index": "65",
+      "latin": "Al Maajid",
+      "arabic": "الْمَاجِدُ"
+    },
+    {
+      "index": "66",
+      "latin": "Al Wahiid",
+      "arabic": "الْواحِدُ"
+    },
+    {
+      "index": "67",
+      "latin": "Al ‘Ahad",
+      "arabic": "اَلاَحَدُ"
+    },
+    {
+      "index": "68",
+      "latin": "As Shamad",
+      "arabic": "الصَّمَدُ"
+    },
+    {
+      "index": "69",
+      "latin": "Al Qaadir",
+      "arabic": "الْقَادِرُ"
+    },
+    {
+      "index": "70",
+      "latin": "Al Muqtadir",
+      "arabic": "الْمُقْتَدِرُ"
+    },
+    {
+      "index": "71",
+      "latin": "Al Muqaddim",
+      "arabic": "الْمُقَدِّمُ"
+    },
+    {
+      "index": "72",
+      "latin": "Al Mu’akkhir",
+      "arabic": "الْمُؤَخِّرُ"
+    },
+    {
+      "index": "73",
+      "latin": "Al Awwal",
+      "arabic": "الأوَّلُ"
+    },
+    {
+      "index": "74",
+      "latin": "Al Aakhir",
+      "arabic": "الآخِرُ"
+    },
+    {
+      "index": "75",
+      "latin": "Az Zhaahir",
+      "arabic": "الظَّاهِرُ"
+    },
+    {
+      "index": "76",
+      "latin": "Al Baathin",
+      "arabic": "الْبَاطِنُ"
+    },
+    {
+      "index": "77",
+      "latin": "Al Waali",
+      "arabic": "الْوَالِي"
+    },
+    {
+      "index": "78",
+      "latin": "Al Muta’aalii",
+      "arabic": "الْمُتَعَالِي"
+    },
+    {
+      "index": "79",
+      "latin": "Al Barri",
+      "arabic": "الْبَرُّ"
+    },
+    {
+      "index": "80",
+      "latin": "At Tawwaab",
+      "arabic": "التَّوَابُ"
+    },
+    {
+      "index": "81",
+      "latin": "Al Muntaqim",
+      "arabic": "الْمُنْتَقِمُ"
+    },
+    {
+      "index": "82",
+      "latin": "Al Afuww",
+      "arabic": "العَفُوُّ"
+    },
+    {
+      "index": "83",
+      "latin": "Ar Ra`uuf",
+      "arabic": "الرَّؤُوفُ"
+    },
+    {
+      "index": "84",
+      "latin": "Malikul Mulk",
+      "arabic": "مَالِكُ الْمُلْكِ"
+    },
+    {
+      "index": "85",
+      "latin": "Dzul JalaaliWal Ikraam",
+      "arabic": "ذُوالْجَلاَلِ وَ الإكْرَامِ"
+    },
+    {
+      "index": "86",
+      "latin": "Al Muqsith",
+      "arabic": "الْمُقْسِطُ"
+    },
+    {
+      "index": "87",
+      "latin": "Al Jamii’",
+      "arabic": "الْجَامِعُ"
+    },
+    {
+      "index": "88",
+      "latin": "Al Ghaniyy",
+      "arabic": "الْغَنِيُّ"
+    },
+    {
+      "index": "89",
+      "latin": "Al Mughnii",
+      "arabic": "الْمُغْنِي"
+    },
+    {
+      "index": "90",
+      "latin": "Al Maani",
+      "arabic": "اَلْمَانِعُ"
+    },
+    {
+      "index": "91",
+      "latin": "Ad Dhaar",
+      "arabic": "الضَّارَّ"
+    },
+    {
+      "index": "92",
+      "latin": "An Nafii’",
+      "arabic": "النَّافِعُ"
+    },
+    {
+      "index": "93",
+      "latin": "An Nuur",
+      "arabic": "النُّورُ"
+    },
+    {
+      "index": "94",
+      "latin": "Al Haadii",
+      "arabic": "الْهَادِي"
+    },
+    {
+      "index": "95",
+      "latin": "Al Baadii",
+      "arabic": "الْبَدِيعُ"
+    },
+    {
+      "index": "96",
+      "latin": "Al Baaqii",
+      "arabic": "اَلْبَاقِي"
+    },
+    {
+      "index": "97",
+      "latin": "Al Waarits",
+      "arabic": "الْوَارِثُ"
+    },
+    {
+      "index": "98",
+      "latin": "Ar Rasyiid",
+      "arabic": "الرَّشِيدُ"
+    },
+    {
+      "index": "99",
+      "latin": "As Shabuur",
+      "arabic": "الصَّبُورُ"
+    }
+  ]
+}
